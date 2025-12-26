@@ -32,66 +32,14 @@ MERN Stack Developer with **1+ year of hands-on experience** in building scalabl
 
 ---
 
-## 🛠️ Skills & Tools
-
+🛠️ Skills & Tools
 <div align="center">
-
-### Frontend
-<div style="display:flex; gap:30px; justify-content:center; flex-wrap:wrap;">
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/><br/>HTML5
-  </div>
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/><br/>CSS3
-  </div>
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/><br/>JavaScript
-  </div>
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/><br/>React.js
-  </div>
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="45"/><br/>Tailwind CSS
-  </div>
-</div>
-
----
-
-### Backend & Database
-<div style="display:flex; gap:30px; justify-content:center; flex-wrap:wrap;">
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/><br/>Node.js
-  </div>
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45"/><br/>Express.js
-  </div>
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/><br/>MongoDB
-  </div>
-</div>
-
----
-
-### Tools
-<div style="display:flex; gap:30px; justify-content:center; flex-wrap:wrap;">
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/><br/>Git
-  </div>
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/><br/>GitHub
-  </div>
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45"/><br/>Postman
-  </div>
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45"/><br/>Figma
-  </div>
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="45"/><br/>Vercel
-  </div>
-</div>
-
-</div>
+🚀 Frontend
+<table> <tr> <td align="center" width="110"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/><br/> <sub><b>HTML5</b></sub> </td> <td align="center" width="110"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/><br/> <sub><b>CSS3</b></sub> </td> <td align="center" width="110"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/><br/> <sub><b>JavaScript</b></sub> </td> <td align="center" width="110"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/><br/> <sub><b>React.js</b></sub> </td> <td align="center" width="130"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="45"/><br/> <sub><b>Tailwind CSS</b></sub> </td> </tr> </table>
+⚙️ Backend & Database
+<table> <tr> <td align="center" width="130"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/><br/> <sub><b>Node.js</b></sub> </td> <td align="center" width="130"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45"/><br/> <sub><b>Express.js</b></sub> </td> <td align="center" width="130"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/><br/> <sub><b>MongoDB</b></sub> </td> </tr> </table>
+🧰 Tools
+<table> <tr> <td align="center" width="120"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/><br/> <sub><b>Git</b></sub> </td> <td align="center" width="120"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/><br/> <sub><b>GitHub</b></sub> </td> <td align="center" width="120"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45"/><br/> <sub><b>Postman</b></sub> </td> <td align="center" width="120"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45"/><br/> <sub><b>Figma</b></sub> </td> <td align="center" width="120"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="45"/><br/> <sub><b>Vercel</b></sub> </td> </tr> </table> </div>
 
 ---
 
