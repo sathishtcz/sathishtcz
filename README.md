@@ -97,8 +97,8 @@ MERN Stack Developer with **1+ year of hands-on experience** in building scalabl
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/sathishm  
-- 🧑‍💻 GitHub: https://github.com/sathishm  
+- 💼 LinkedIn: https://www.linkedin.com/in/sathiishm  
+- 🧑‍💻 GitHub: https://github.com/sathishtcz  
 
 ---
 
